@@ -1,4 +1,4 @@
-import dotenv from "dotenv";  //as early as possible in your application
+import dotenv from "dotenv"; 
 import { app } from "./app.js";
 import connectDB from "./db/index.js";
 
